@@ -1,6 +1,6 @@
 # Website Basic Information
 baseURL = "https://blog.062816.xyz/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Athenalarm Blog"
+title = "优选资源平台｜全网优质资源分享平台"
 theme = "ananke"
 
 # Author Information (optional)
