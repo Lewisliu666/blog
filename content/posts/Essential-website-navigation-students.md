@@ -85,11 +85,7 @@
 
 **娱乐工具**  
 - **[what-if 有趣的文字漫画](http://xkcd.com/)** —— xkcd 趣味科普漫画。  
-- **[指影 很良心的电影点评分享推荐网站](http://zhiying.me)** —— 高质量电影推荐社区。  
-
-**科学上网工具**  
-- **[VPN Gate](http://www.vpngate.net/en/)** —— 免费全球 VPN 节点。  
-- **[Shadowsocks](http://shadowsocks.com/)** —— 轻量高效科学上网工具。  
+- **[指影 很良心的电影点评分享推荐网站](http://zhiying.me)** —— 高质量电影推荐社区。    
 
 ### 2. 网络教育与在线学习
 **互动式教育**  
